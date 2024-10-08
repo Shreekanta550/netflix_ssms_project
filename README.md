@@ -1,6 +1,6 @@
 # Netflix Movies and TV Show Data Analysis using SQL
 
-[Netflix logo:https://github.com/Shreekanta550/netflix_ssms_project/blob/main/Netflix%20logo.jpg)]
+![Netflix logo](https://github.com/Shreekanta550/netflix_ssms_project/blob/main/Netflix%20logo.jpg)
 
 # Introduction
 A data analytics project focused on analyzing Netflix content by importing data from Excel into SQL Server Management Studio (SSMS) and solving business queries using SQL.
